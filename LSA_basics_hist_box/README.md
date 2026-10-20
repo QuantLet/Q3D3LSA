@@ -9,9 +9,9 @@ Name of Quantlet: LSA_basics_hist_box
 
 Published in: Q3-D3-LSA
 
-Description: The SVD factor matrices U, V and the resulting LSA matrices m_lsa and error_matrix from the LSA process are extracted and calculated.
+Description: The SVD factor matrices U, V and the resulting LSA matrices m_lsa and error_matrix from the LSA process are extracted and calculated. The LSA process is applied on the term document matrix TDM of the Quantlets.
 
-Their histograms and boxplots are displayed using ggplot: Implementation of the Grammar of Graphics in R.
+Their histograms and boxplots are displayed using ggplot: Implementation of the Grammar of Graphics in R.'
 
 Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, boxplot, histogram, ggplot2
 
@@ -24,7 +24,7 @@ Submitted: 31.10.2016 by Lukas Borke
 Example: 
 - 1: Histogram of the matrix values in the LSA matrices m_lsa and error_matrix
 - 2: Histogram of SVD factor matrices U, V
-- 3: 'Boxplot of all calculated matrices: TDM, U, V, m_lsa and error_matrix
+- 3: 'Boxplot of all calculated matrices: TDM, U, V, m_lsa and error_matrix'
 
 ```
 <div align="center">
