@@ -9,7 +9,7 @@ Name of Quantlet: LSA_heatmaps_factors
 
 Published in: Q3-D3-LSA
 
-Description: Big Data visualization of LSA via heat maps. Heat maps with color key of the LSA decomposition matrices are produced via gplots package.
+Description: Big Data visualization of LSA via heat maps. Heat maps with color key of the LSA decomposition matrices are produced via gplots package. The truncated SVD factor matrices U, V and d_s (diagonal Sigma matrix) are extracted from the LSA space. The LSA process is applied on the term document matrix TDM of the Quantlets.
 
 Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, heat map, visualization
 
