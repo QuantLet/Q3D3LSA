@@ -9,7 +9,7 @@ Name of Quantlet: LSA_heatmaps_sum
 
 Published in: Q3-D3-LSA
 
-Description: Big Data visualization of LSA via heat maps. Heat maps with color key of the LSA decomposition matrices are produced via gplots package.
+Description: Big Data visualization of LSA via heat maps. Heat maps with color key of the LSA decomposition matrices are produced via gplots package. m_a is the original term document matrix TDM (BVSM) containing Quantlets, m_lsa the corresponding representation in the LSA model reduced to the ﬁrst k dimensions and error_matrix is the approximation error matrix of the SVD truncation.
 
 Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, heat map, visualization
 
