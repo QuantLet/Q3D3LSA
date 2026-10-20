@@ -9,9 +9,9 @@ Name of Quantlet: LSA_kernel
 
 Published in: Q3-D3-LSA
 
-Description: Big Data visualization of LSA via heat maps. The LSA process is applied on the term document matrix TDM of the Quantlets.
+Description: Big Data visualization of LSA via heat maps. The LSA process is applied on the term document matrix TDM of the Quantlets. Heat maps with color key of the semantic kernel and its subsets are produced via gplots package. The semantic kernel U_kernel is extracted from the LSA space. For demonstration purpose some sub matrices are taken from the full semantic kernel allowing the exact determination of "semantically correlated" term pairs. Additionally, histograms of the semantic kernel values are plotted via ggplot2 package from different aspects.
 
-Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, correlation,
+Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, correlation, heat map, visualization, histogram, semantic kernel, ggplot2
 
 See also: LSA_heatmaps_factors, LSA_basics, LSA_heatmaps_sum, LSA_basics_hist_box, LSA_PC_rotation
 
