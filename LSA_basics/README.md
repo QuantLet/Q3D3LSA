@@ -9,7 +9,7 @@ Name of Quantlet: LSA_basics
 
 Published in: Q3-D3-LSA
 
-Description: Plots the highest singular values as provided by the LSA process for the given term document matrix TDM of the Quantlets.
+Description: Plots the highest singular values as provided by the LSA process for the given term document matrix TDM of the Quantlets. Additionally, the histogram of the matrix values in the TDM is plotted via ggplot2 package. The high sparsity of the TDM becomes evident. The mean value is indicated via a dashed vertical line.
 
 Keywords: data mining, text mining, term document matrix, quantnet, lsa, svd, descriptive-statistics, singular values, plot, histogram, ggplot2
 
